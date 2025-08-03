@@ -1,0 +1,22 @@
+[
+    {
+        "layer": "dress",
+        "src": ""
+    },
+    {
+        "layer": "hat",
+        "src": ""
+    },
+    {
+        "layer": "top",
+        "src": ""
+    },
+    {
+        "layer": "jacket",
+        "src": "http:\/\/localhost\/storeshop\/items\/jacket1.png"
+    },
+    {
+        "layer": "shoes",
+        "src": ""
+    }
+]
